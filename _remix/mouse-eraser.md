@@ -16,3 +16,7 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Αλλάξτε οποιαδήποτε από τις δύο εικόνες καθώς και το μέγεθος του eraser.
+
+Λύση:
+
+έγινε σε codepen όπως έχει ζητηθεί, αυξήθηκε το μέγεθος της γόμας και αλλάξαν και οι δύο εικόνες το link για την άσκηση είναι [εδώ](https://codepen.io/michail-kavvadias/pen/vYKjaMr)
