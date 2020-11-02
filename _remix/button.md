@@ -16,3 +16,9 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
+
+Λύση:
+
+παρακαλώ δειξτε κατανόηση διότι δεν δουλεύουν τα embeds
+(https://codepen.io/michail-kavvadias/pen/QWEEORq)
+
