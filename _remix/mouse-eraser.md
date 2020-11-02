@@ -20,3 +20,8 @@ tags:
 Λύση:
 
 έγινε σε codepen όπως έχει ζητηθεί, αυξήθηκε το μέγεθος της γόμας και αλλάξαν και οι δύο εικόνες το link για την άσκηση είναι [εδώ](https://codepen.io/michail-kavvadias/pen/vYKjaMr)
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="Image erasing with cursor" src="https://codepen.io/michail-kavvadias/embed/vYKjaMr?height=265&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/michail-kavvadias/pen/vYKjaMr'>Image erasing with cursor</a> by Michail K.
+  (<a href='https://codepen.io/michail-kavvadias'>@michail-kavvadias</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
