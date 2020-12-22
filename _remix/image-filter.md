@@ -18,3 +18,14 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
+
+Λύση:
+
+Εύρεση και χρήση άλλης εικώνας με αντεστραμένα χρώματα και χρήση φίλτρου αντιστροφής για να δούμε την κανονική εικώνα. Link για codepen [εδώ](https://codepen.io/michail-kavvadias/pen/MWjEYQm)
+
+embed: 
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="image filter" src="https://codepen.io/michail-kavvadias/embed/MWjEYQm?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/michail-kavvadias/pen/MWjEYQm'>image filter</a> by Michail K.
+  (<a href='https://codepen.io/michail-kavvadias'>@michail-kavvadias</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
